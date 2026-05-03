@@ -56,4 +56,5 @@ The analysis utilizes a synthesized pharmaceutical sales dataset containing tran
    ```bash
    pip install pandas matplotlib seaborn
 3. **Launch the analysis:**
+
 Open ZS_Pharma_Analytics_Project.ipynb in Jupyter Notebook to view the code, visualizations, and business commentary.
